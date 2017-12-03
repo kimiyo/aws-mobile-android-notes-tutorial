@@ -1,4 +1,0 @@
-Config:
-login
-  kimiyo   Kim!201712   kimiyo@naver.com
-  
